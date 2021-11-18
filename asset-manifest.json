@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Books-Finder/static/css/main.77421e15.chunk.css",
+    "main.js": "/Books-Finder/static/js/main.54a05182.chunk.js",
+    "main.js.map": "/Books-Finder/static/js/main.54a05182.chunk.js.map",
+    "runtime-main.js": "/Books-Finder/static/js/runtime-main.82a2d125.js",
+    "runtime-main.js.map": "/Books-Finder/static/js/runtime-main.82a2d125.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/Books-Finder/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.a9ce7523.chunk.js": "/Books-Finder/static/js/2.a9ce7523.chunk.js",
+    "static/js/2.a9ce7523.chunk.js.map": "/Books-Finder/static/js/2.a9ce7523.chunk.js.map",
+    "static/js/3.449d1c2a.chunk.js": "/Books-Finder/static/js/3.449d1c2a.chunk.js",
+    "static/js/3.449d1c2a.chunk.js.map": "/Books-Finder/static/js/3.449d1c2a.chunk.js.map",
+    "index.html": "/Books-Finder/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/Books-Finder/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.77421e15.chunk.css.map": "/Books-Finder/static/css/main.77421e15.chunk.css.map",
+    "static/js/2.a9ce7523.chunk.js.LICENSE.txt": "/Books-Finder/static/js/2.a9ce7523.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a2d125.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.a9ce7523.chunk.js",
+    "static/css/main.77421e15.chunk.css",
+    "static/js/main.54a05182.chunk.js"
+  ]
+}
